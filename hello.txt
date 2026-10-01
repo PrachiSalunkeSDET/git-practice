@@ -1,2 +1,4 @@
 Hello Git
 I am learning Git and GitHub.
+I am learning how Git staging works.
+I will learn Pull Requests soon.
