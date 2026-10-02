@@ -4,3 +4,4 @@ I am learning how Git staging works.
 I will learn Pull Requests soon.
 I am currently working on feature/loan-validation branch.
 modifying on feature loan validation
+This repository is now connected to GitHub.
