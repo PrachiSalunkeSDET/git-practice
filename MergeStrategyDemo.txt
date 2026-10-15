@@ -1,1 +1,2 @@
 Merge strategy demonstration
+This branch will use a merge commit.
